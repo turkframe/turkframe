@@ -10,7 +10,7 @@ bu hesapta iş akışımı hızlandıran araçları, şablonları ve projelerimi
 - 🎞️ **Kurgu:** EDIUS, haber / belgesel / tanıtım filmi
 - ✨ **Motion:** kinetik tipografi, alt yazı ve jenerik tasarımı
 - 🗂️ **Arşiv:** video ve fotoğraf arşivi düzenleme, otomasyon scriptleri
-- 🌱 **Şu an öğreniyorum:** <!-- örn. After Effects ifadeleri, Python ile otomasyon -->
+- 🌱 **Şu an öğreniyorum:** Python ile otomasyon, DaVinci Resolve'da renk düzenleme, video üretiminde yapay zekâ araçları
 
 ---
 
